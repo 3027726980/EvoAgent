@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.db
+.env
+.pytest_cache/
+
+# 本地虚拟环境和 IDE 配置不纳入版本控制。
+.venv/
+venv/
+.idea/
+
